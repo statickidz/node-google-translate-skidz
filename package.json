@@ -9,6 +9,7 @@
     "url": "https://github.com/statickidz/node-google-translate-free.git"
   },
   "dependencies": {
+    "entities": "^1.1.1",
     "querystring": "^0.2.0",
     "request": "^2.67.0",
     "striptags": "^2.0.4",
