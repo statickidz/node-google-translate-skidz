@@ -1,12 +1,12 @@
 {
-  "name": "node-google-translate-free",
+  "name": "node-google-translate",
   "description": "Simple Node.js library for talking to Google's Translate API for free.",
   "version": "0.1.0",
-  "author": "StaticKidz",
-  "homepage": "https://github.com/statickidz/node-google-translate-free",
+  "author": "StaticKidz <statickidz@gmail.com>",
+  "homepage": "https://statickidz.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/statickidz/node-google-translate-free.git"
+    "url": "git+https://github.com/statickidz/node-google-translate-free.git"
   },
   "dependencies": {
     "entities": "^1.1.1",
@@ -20,6 +20,18 @@
     "i18n",
     "l10n",
     "google",
+    "google translate api",
     "translate"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/statickidz/node-google-translate-free/issues"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/run.js"
+  },
+  "license": "ISC"
 }
