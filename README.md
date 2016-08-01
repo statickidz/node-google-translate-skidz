@@ -1,7 +1,17 @@
+# Google Translate Node JS
+
 Google Translate API client for node.js for free.
 
+## Install
+
 ```js
-var translate = require('../lib/translate');
+npm install node-google-translate-skidz --save
+```
+
+## USAGE
+
+```js
+var translate = require('node-google-translate-skidz');
 
 translate({
   text: 'text',
