@@ -1,5 +1,5 @@
 {
-  "name": "node-google-translate",
+  "name": "node-google-translate-skidz",
   "description": "Simple Node.js library for talking to Google's Translate API for free.",
   "version": "0.1.0",
   "author": "StaticKidz <statickidz@gmail.com>",
