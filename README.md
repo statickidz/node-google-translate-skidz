@@ -1,6 +1,6 @@
 # Google Translate Node JS
 
-Google Translate API client for node.js for free.
+Google Translate API client for node.js. 
 
 ## Install
 
