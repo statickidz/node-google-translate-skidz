@@ -1,7 +1,7 @@
 {
   "name": "node-google-translate-skidz",
   "description": "Simple Node.js library for talking to Google's Translate API for free.",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "author": "StaticKidz <statickidz@gmail.com>",
   "homepage": "https://statickidz.com",
   "repository": {
@@ -9,10 +9,8 @@
     "url": "git+https://github.com/statickidz/node-google-translate-free.git"
   },
   "dependencies": {
-    "entities": "^1.1.1",
     "querystring": "^0.2.0",
     "request": "^2.67.0",
-    "striptags": "^2.0.4",
     "underscore": "^1.8.3"
   },
   "main": "./lib/translate.js",
