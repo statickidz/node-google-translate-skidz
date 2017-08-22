@@ -1,6 +1,6 @@
-const translate = require('../lib/translate');
-const assert = require('assert');
-const _ = require('lodash');
+var translate = require('../lib/translate');
+var assert = require('assert');
+var _ = require('lodash');
 
 var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; };
 
