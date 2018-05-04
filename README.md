@@ -1,4 +1,4 @@
-# Google Translate Node JS
+# Google Translate Node JS [![Build Status](https://travis-ci.org/statickidz/node-google-translate-skidz.svg?branch=master)](https://travis-ci.org/statickidz/node-google-translate-skidz)
 
 Google Translate API client for node.js. 
 
